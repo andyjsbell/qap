@@ -1,3 +1,12 @@
+# Problem 2
+# Why does an R1CS require exactly one multiplication per row?
+# Keeping things to one operation means we can achieve better efficiency, be succint my friend
+# How does this relate to bilinear pairings?
+# In combination with R1CS bilinear pairings provide quick verificiation of these computations
+
+# Problem 3
+# Convert the following R1CS into a QAP over real numbers, not a finite field
+
 import numpy as np
 from numpy import poly1d
 import random
